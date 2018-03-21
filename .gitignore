@@ -1,0 +1,16 @@
+# Ahh Macs
+.DS_STORE
+
+# Virtualenv
+bin/
+include/
+lib/
+pip-selfcheck.json
+
+# Compiled / Optimised
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+.Python
